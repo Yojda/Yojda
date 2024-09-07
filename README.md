@@ -18,7 +18,6 @@ Double diplôme à [l'École de Technologie Supérieure](https://www.etsmtl.ca/)
 
 ## 🙋‍♂️ A propos de moi
 
-- In
 - 📖 Grand intérêt pour la recherche opérationnelle, les mathématiques appliquées et l'analyse numérique
 - 🖌️ Graphiste autodidacte avec 6 ans d'expérience dans la création visuelle
 - 🃏 Passionné de poker depuis 2 ans
@@ -30,10 +29,12 @@ Double diplôme à [l'École de Technologie Supérieure](https://www.etsmtl.ca/)
 ![Static Badge](https://img.shields.io/badge/langage%20c-%23a5b5c7?style=for-the-badge&logo=c&logoColor=black&link=https%3A%2F%2Fwww.behance.net%2Fyojda)
 ![Static Badge](https://img.shields.io/badge/matlab-%23f85b05?style=for-the-badge&logo=matlab&logoColor=black&link=https%3A%2F%2Fwww.behance.net%2Fyojda)
 ![Static Badge](https://img.shields.io/badge/java-%23ec2025?style=for-the-badge&logo=java&logoColor=black&link=https%3A%2F%2Fwww.behance.net%2Fyojda)
+![Static Badge](https://img.shields.io/badge/html-%23f22601?style=for-the-badge&logo=html5&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2Fyojda)
+![Static Badge](https://img.shields.io/badge/css-%23254de0?style=for-the-badge&logo=css3&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2Fyojda)
 ![Static Badge](https://img.shields.io/badge/git-%23f05133?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fwww.behance.net%2Fyojda)
 
 ## 📚 Actuellement en train d'apprendre
 
 - DevOps
-- Interaction Humain-Machine (IHM)
 - JavaScript
+- Interaction Humain-Machine (IHM)
