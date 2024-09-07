@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <h2>
 Bonjour ! Moi c'est Yannis 👋
 </h2>
