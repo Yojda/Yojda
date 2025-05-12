@@ -21,7 +21,7 @@ Double diplôme à [l'École de Technologie Supérieure](https://www.etsmtl.ca/)
 - 📖 Grand intérêt pour la recherche opérationnelle, les mathématiques appliquées et l'analyse numérique
 - 🖌️ Graphiste autodidacte avec 6 ans d'expérience dans la création visuelle
 - 🃏 Passionné de poker depuis 2 ans
-- ⚽︎ Joueur amateur de football depuis +10 ans
+- ⚽ Joueur amateur de football depuis +10 ans
 
 ## 🛠️ Outils et langages
 
@@ -35,6 +35,6 @@ Double diplôme à [l'École de Technologie Supérieure](https://www.etsmtl.ca/)
 
 ## 📚 Actuellement en train d'apprendre
 
-- DevOps
-- JavaScript
-- Interaction Humain-Machine (IHM)
+- IA
+- Gestion de projets logiciel
+- Architecture logicielle
