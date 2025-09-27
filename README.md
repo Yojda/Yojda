@@ -35,6 +35,6 @@ Double diplôme à [l'École de Technologie Supérieure](https://www.etsmtl.ca/)
 
 ## 📚 Actuellement en train d'apprendre
 
-- IA
-- Gestion de projets logiciel
-- Architecture logicielle
+- Software Design and Architecture
+- Computer Graphics
+- Monitoring and Observability
